@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @lordihm
 - My name is IDE HALIDOU MOUHAMADOUL-KAIROU
-- Specialist in Sciences and Databases
-- Expert in Project Management; Monitoring-Evaluation and Strategic Planning
+- Specialist in Data Sciences
+- Expert in Data Analisis; Project Management; Monitoring-Evaluation and Strategic Planning
 - 👀 I’m interested in data analysis and programming
-- 🌱 I’m currently learning Project Management at CIF-ILO
+- 🌱 I successfully completed my project management certificate at CIF-ILO
 - 💞️ I’m looking to collaborate on Django and python; R langage; QGIS; Android deloppement
 - 📫 How to reach me lordihm@gmail.com; Phone:+22796805684
 - 😄 
